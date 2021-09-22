@@ -8,5 +8,5 @@
 The project's documentation is fareley low and most of the code has not been properly cleaned as of now use at your own discretion
 
 This project is licensed under CC BY-NC-SA 4.0 
-Please fallow the license before downloading the repo
+Please follow the license before downloading the repo
 
